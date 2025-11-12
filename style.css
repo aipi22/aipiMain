@@ -1,6 +1,15 @@
+body {
+  background-color: #000000;
+}
+
 h1 {
   text-align: center;
 }
 h2 {
   text-align: center;
+}
+
+.box {
+  background-color: #242836;
+  border: 2px solid #406aff;
 }
