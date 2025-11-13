@@ -4,12 +4,38 @@ body {
 
 h1 {
   text-align: center;
+  font-size: 80px;
 }
 h2 {
   text-align: center;
+  font-size: 64px;
 }
 
 .box {
   background-color: #242836;
   border: 2px solid #406aff;
+  padding: 20px;
+  border-radius: 25px;
+  margin: 20px auto;
+  max-width: 3000px;
+  width: 90%;
+}
+
+.link {
+  font-size: 32px;
+}
+
+.image {
+  border-radius: 25px;
+  width: 30%;
+  height: 30%;
+}
+
+.horizontal {
+  display: flex;
+  justify-content: space-between
+}
+
+.text {
+  color: white;
 }
