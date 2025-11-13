@@ -27,6 +27,8 @@ h2 {
 
 .image {
   border-radius: 25px;
+  object-fit: cover;
+  object-position: center;
   width: 30%;
   height: 30%;
 }
