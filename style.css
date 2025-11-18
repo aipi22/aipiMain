@@ -48,4 +48,5 @@ h2 {
 
 .specialtext {
   color: linear-gradient(to right, white, blue);
+  font-size: 32px;
 }
