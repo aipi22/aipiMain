@@ -41,3 +41,11 @@ h2 {
 .text {
   color: white;
 }
+
+.specialbox {
+  background-image: linear-gradient(to right, blue, white);
+}
+
+.specialtext {
+  background-image: linear-gradient(to right, white, blue);
+}
