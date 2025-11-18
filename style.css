@@ -43,7 +43,7 @@ h2 {
 }
 
 .specialbox {
-  background-image: linear-gradient(to right, blue, white);
+  background-image: linear-gradient(to right, #00b5f7, #c2efff);
 }
 
 .specialtext {
