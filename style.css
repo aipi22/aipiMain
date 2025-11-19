@@ -47,6 +47,7 @@ h2 {
 }
 
 .specialtext {
-  color: linear-gradient(to right, white, blue);
+  background-image: linear-gradient(to left, #00b5f7, #c2efff);
+  color: white;
   font-size: 32px;
 }
