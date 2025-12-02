@@ -50,6 +50,11 @@ h2 {
   font-family: Arial;
 }
 
+.whiteText {
+  color: white;
+  font-family: Arial;
+}
+
 .specialbox {
   background-image: linear-gradient(to right, #00b5f7, #c2efff);
 }
