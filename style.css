@@ -5,10 +5,16 @@ body {
 h1 {
   text-align: center;
   font-size: 80px;
+  font-family: Arial;
+  background: linear-gradient(to right, #050505, 7000ff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 h2 {
   text-align: center;
   font-size: 64px;
+  font-family: Arial;
 }
 
 .box {
@@ -23,6 +29,7 @@ h2 {
 
 .link {
   font-size: 32px;
+  font-family: Arial;
 }
 
 .image {
@@ -40,6 +47,7 @@ h2 {
 
 .text {
   color: white;
+  font-family: Arial;
 }
 
 .specialbox {
