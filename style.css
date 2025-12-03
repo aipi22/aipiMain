@@ -27,9 +27,16 @@ h2 {
   width: 90%;
 }
 
-.link {
+.link:link {
   font-size: 32px;
   font-family: Arial;
+  font-color: #00f2ff;
+}
+
+.link:visited {
+  font-size: 32px;
+  font-family: Arial;
+  font-color: #00f2ff;
 }
 
 .image {
